@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+# TEST GITHUB NAMBAH APA ENGGA
+
+
 # ==================================================
 # CONFIG
 # ==================================================
@@ -263,7 +266,7 @@ elif menu == "Profil Kelompok":
     st.markdown("---")
 
     st.subheader("Anggota Kelompok")
-    st.write("1. Faiz Maulana Budiaji — NIM:")
+    st.write("1. Faiz Maulana Budiaji — NIM: 123240249")
     st.write("2. Nama Anggota 2 — NIM:")
 
     st.markdown("---")
